@@ -3,6 +3,7 @@ git is free software
 Git has a mutable index called stage.
 
 
+
 create a new branch quick!
 
 
@@ -10,5 +11,4 @@ create a new branch quick!
 this is jimeng s company !
 welcome!
 
-
-Creating a new bradfgsdfgsdfgsdfgnch is quick & simple.
+create a new branch quick!
